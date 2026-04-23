@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" fill="none" stroke="#D4AF37" preserveAspectRatio="none">
+  <!-- Multiple borders -->
+  <rect x="15" y="15" width="270" height="370" stroke-width="1" />
+  <rect x="25" y="25" width="250" height="350" stroke-width="2" />
+  
+  <!-- Ornate Corners -->
+  <path d="M 15 40 L 40 40 L 40 15" stroke-width="1.5" />
+  <path d="M 15 50 Q 50 50 50 15" stroke-width="1" />
+  <circle cx="32" cy="32" r="3" fill="#D4AF37" />
+
+  <path d="M 285 40 L 260 40 L 260 15" stroke-width="1.5" />
+  <path d="M 285 50 Q 250 50 250 15" stroke-width="1" />
+  <circle cx="268" cy="32" r="3" fill="#D4AF37" />
+
+  <path d="M 15 360 L 40 360 L 40 385" stroke-width="1.5" />
+  <path d="M 15 350 Q 50 350 50 385" stroke-width="1" />
+  <circle cx="32" cy="368" r="3" fill="#D4AF37" />
+
+  <path d="M 285 360 L 260 360 L 260 385" stroke-width="1.5" />
+  <path d="M 285 350 Q 250 350 250 385" stroke-width="1" />
+  <circle cx="268" cy="368" r="3" fill="#D4AF37" />
+</svg>

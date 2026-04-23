@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 60" fill="none" stroke="#D4AF37">
+  <line x1="50" y1="30" x2="250" y2="30" stroke-width="1"/>
+  <line x1="350" y1="30" x2="550" y2="30" stroke-width="1"/>
+  <line x1="80" y1="26" x2="220" y2="26" stroke-width="0.5"/>
+  <line x1="80" y1="34" x2="220" y2="34" stroke-width="0.5"/>
+  <line x1="380" y1="26" x2="520" y2="26" stroke-width="0.5"/>
+  <line x1="380" y1="34" x2="520" y2="34" stroke-width="0.5"/>
+  
+  <!-- Center Motif -->
+  <path d="M 270 30 Q 300 10 330 30 Q 300 50 270 30 Z" stroke-width="2"/>
+  <path d="M 280 30 Q 300 20 320 30 Q 300 40 280 30 Z" stroke-width="1"/>
+  <circle cx="300" cy="30" r="5" fill="#D4AF37" />
+  
+  <!-- Side diamonds -->
+  <path d="M 250 30 L 260 20 L 270 30 L 260 40 Z" stroke-width="1"/>
+  <path d="M 330 30 L 340 20 L 350 30 L 340 40 Z" stroke-width="1"/>
+</svg>

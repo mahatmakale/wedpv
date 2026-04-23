@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" fill="none" stroke="#D4AF37" preserveAspectRatio="none">
+  <rect x="5" y="5" width="990" height="390" stroke-width="1" />
+  <rect x="12" y="12" width="976" height="376" stroke-width="0.5" />
+  <path d="M 5 25 L 25 25 L 25 5" stroke-width="2" />
+  <path d="M 995 25 L 975 25 L 975 5" stroke-width="2" />
+  <path d="M 5 375 L 25 375 L 25 395" stroke-width="2" />
+  <path d="M 995 375 L 975 375 L 975 395" stroke-width="2" />
+</svg>

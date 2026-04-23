@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" fill="none" stroke="#D4AF37">
+  <!-- Outer complex rings -->
+  <circle cx="250" cy="250" r="230" stroke-width="1" />
+  <circle cx="250" cy="250" r="220" stroke-width="2" />
+  <circle cx="250" cy="250" r="210" stroke-width="1" stroke-dasharray="4 6" />
+  
+  <!-- Outer Petals -->
+  <path d="M 250 30 Q 300 100 250 150 Q 200 100 250 30 Z" stroke-width="1"/>
+  <path d="M 250 470 Q 300 400 250 350 Q 200 400 250 470 Z" stroke-width="1"/>
+  <path d="M 30 250 Q 100 300 150 250 Q 100 200 30 250 Z" stroke-width="1"/>
+  <path d="M 470 250 Q 400 300 350 250 Q 400 200 470 250 Z" stroke-width="1"/>
+  
+  <!-- Diagonal Petals -->
+  <path d="M 94 94 Q 160 140 180 180 Q 140 160 94 94 Z" stroke-width="1"/>
+  <path d="M 406 406 Q 340 360 320 320 Q 360 340 406 406 Z" stroke-width="1"/>
+  <path d="M 406 94 Q 340 140 320 180 Q 360 160 406 94 Z" stroke-width="1"/>
+  <path d="M 94 406 Q 160 360 180 320 Q 140 340 94 406 Z" stroke-width="1"/>
+  
+  <!-- Inner Rings -->
+  <circle cx="250" cy="250" r="100" stroke-width="2" />
+  <circle cx="250" cy="250" r="85" stroke-width="1" />
+  <circle cx="250" cy="250" r="70" stroke-width="1.5" stroke-dasharray="2 4" />
+  
+  <!-- Inner Petals -->
+  <path d="M 250 165 C 270 190 270 230 250 250 C 230 230 230 190 250 165 Z" stroke-width="1"/>
+  <path d="M 250 335 C 270 310 270 270 250 250 C 230 270 230 310 250 335 Z" stroke-width="1"/>
+  <path d="M 165 250 C 190 270 230 270 250 250 C 230 230 190 230 165 250 Z" stroke-width="1"/>
+  <path d="M 335 250 C 310 270 270 270 250 250 C 270 230 310 230 335 250 Z" stroke-width="1"/>
+  
+  <circle cx="250" cy="250" r="30" stroke-width="2" />
+  <circle cx="250" cy="250" r="20" stroke-width="1" />
+  <circle cx="250" cy="250" r="5" fill="#D4AF37" />
+</svg>

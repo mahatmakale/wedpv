@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -50 1200 850" fill="none" stroke="#D4AF37" preserveAspectRatio="xMidYMax meet">
+  <!-- Arch Pillars -->
+  <!-- Left Pillar Outer -->
+  <rect x="50" y="300" width="100" height="500" stroke-width="3"/>
+  <!-- Left Pillar Inner Details -->
+  <rect x="70" y="320" width="60" height="480" stroke-width="1.5"/>
+  <line x1="100" y1="320" x2="100" y2="800" stroke-width="1"/>
+  
+  <!-- Right Pillar Outer -->
+  <rect x="1050" y="300" width="100" height="500" stroke-width="3"/>
+  <!-- Right Pillar Inner Details -->
+  <rect x="1070" y="320" width="60" height="480" stroke-width="1.5"/>
+  <line x1="1100" y1="320" x2="1100" y2="800" stroke-width="1"/>
+
+  <!-- Arch Top Structure -->
+  <!-- Outer thick arch -->
+  <path d="M 50 300 C 50 100, 300 50, 600 20 C 900 50, 1150 100, 1150 300" stroke-width="4"/>
+  <!-- Inner scallop arch base -->
+  <path d="M 150 300 C 150 150, 350 100, 600 70 C 850 100, 1050 150, 1050 300" stroke-width="2"/>
+
+  <!-- Ornate scalloped inner edge (The Indian Gate look) -->
+  <path d="M 150 300 
+           Q 180 270 220 260 
+           Q 280 240 320 210 
+           Q 380 180 430 150 
+           Q 480 120 540 100 
+           Q 570 90 600 85 
+           Q 630 90 660 100 
+           Q 720 120 770 150 
+           Q 820 180 880 210 
+           Q 920 240 980 260 
+           Q 1020 270 1050 300" stroke-width="2" stroke-linejoin="round"/>
+           
+  <path d="M 150 320 
+           Q 180 290 220 280 
+           Q 280 260 320 230 
+           Q 380 200 430 170 
+           Q 480 140 540 120 
+           Q 570 110 600 105 
+           Q 630 110 660 120 
+           Q 720 140 770 170 
+           Q 820 200 880 230 
+           Q 920 260 980 280 
+           Q 1020 290 1050 320" stroke-width="1" stroke-dasharray="6 4" stroke-linejoin="round"/>
+
+  <!-- Center Top Finial / Motif -->
+  <path d="M 600 20 L 580 -20 L 600 -40 L 620 -20 Z" fill="#D4AF37" />
+  <circle cx="600" cy="50" r="15" stroke-width="2" />
+  <circle cx="600" cy="50" r="5" fill="#D4AF37" />
+
+  <!-- Corner Spandrel Decorations (Floral hints) -->
+  <!-- Left Spandrel -->
+  <path d="M 150 300 C 150 200, 250 150, 400 150" stroke-width="1" stroke-dasharray="2 4"/>
+  <circle cx="250" cy="220" r="8" stroke-width="1.5"/>
+  <circle cx="210" cy="260" r="6" stroke-width="1.5"/>
+  
+  <!-- Right Spandrel -->
+  <path d="M 1050 300 C 1050 200, 950 150, 800 150" stroke-width="1" stroke-dasharray="2 4"/>
+  <circle cx="950" cy="220" r="8" stroke-width="1.5"/>
+  <circle cx="990" cy="260" r="6" stroke-width="1.5"/>
+</svg>

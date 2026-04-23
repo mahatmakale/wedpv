@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" stroke="#D4AF37" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <pattern id="mandala-pattern" width="300" height="300" patternUnits="userSpaceOnUse">
+      <path d="M 150 20 Q 200 150 280 150 Q 200 150 150 280 Q 100 150 20 150 Q 100 150 150 20 Z" stroke-width="2"/>
+      <circle cx="150" cy="150" r="100" stroke-width="1" stroke-dasharray="4 6"/>
+      <circle cx="150" cy="150" r="80" stroke-width="0.5"/>
+      <circle cx="150" cy="150" r="10" fill="#D4AF37"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#mandala-pattern)" />
+</svg>

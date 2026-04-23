@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" stroke="#D4AF37" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <pattern id="floral-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <path d="M 0 100 Q 50 20 100 100 Q 150 180 200 100" stroke-width="2"/>
+      <path d="M 0 120 Q 50 40 100 120 Q 150 200 200 120" stroke-width="1"/>
+      <circle cx="100" cy="100" r="20" stroke-width="0.5" stroke-dasharray="2 2"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#floral-pattern)" />
+</svg>
